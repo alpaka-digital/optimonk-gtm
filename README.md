@@ -1,6 +1,6 @@
 ![logo](icon.png)
 
-# Template
+# OptiMonk for Google Tag Manager
 
 See the [changelog](CHANGELOG.md) for changes.
 
