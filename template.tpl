@@ -9,8 +9,8 @@ Google may provide), as modified from time to time.
 ___INFO___
 
 {
-  "displayName": "Optimonk Tag",
-  "description": "Optimonk implementation for Google Tag Manager",
+  "displayName": "OptiMonk Tag",
+  "description": "OptiMonk implementation for Google Tag Manager",
   "categories": ["AFFILIATE_MARKETING", "ADVERTISING"],
   "securityGroups": [],
   "id": "cvt_temp_public_id",
