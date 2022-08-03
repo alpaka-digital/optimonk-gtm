@@ -46,7 +46,21 @@ ___WEB_PERMISSIONS___
       "key": {
         "publicId": "inject_script",
         "versionId": "1"
-      }
+      },
+      "param": [
+        {
+          "key": "urls",
+          "value": {
+            "type": 2,
+            "listItem": [
+              {
+                "type": 1,
+                "string": "https://front.optimonk.com/public/*/js/preload.js"
+              }
+            ]
+          }
+        }
+      ]
     },
     "clientAnnotations": {
       "isEditedByUser": true
